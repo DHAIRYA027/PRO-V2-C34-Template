@@ -5,7 +5,7 @@ class Box {
         'friction':1.0,
         'density':20,
 
-        // 'isStatic': true
+         'isStatic': true
         // 'isStatic'= false
         // 'isStatic'= true
         // 'isStatic': false
